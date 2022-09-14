@@ -1,2 +1,2 @@
-# ML-zoomcamp DataTalks Club (@alexeygrigorev)
-ML-zoomcamp Homework
+# ML-zoomcamp DataTalks.Club 
+ML-zoomcamp Homework files.
